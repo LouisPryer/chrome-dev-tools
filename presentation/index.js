@@ -1,8 +1,6 @@
 // Import React
 import React from 'react'
 import Youtube from 'react-youtube'
-import Appraisal from './assets/appraisal'
-import SmartDebugger from './assets/smartDebugger'
 
 // Import Spectacle Core tags
 import {
@@ -15,9 +13,6 @@ import {
   Slide,
   Text
 } from 'spectacle'
-
-// Import image preloader util
-// import preloader from 'spectacle/lib/utils/preloader'
 
 // Import theme
 import createTheme from 'spectacle/lib/themes/default'
