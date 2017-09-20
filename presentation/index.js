@@ -385,7 +385,7 @@ export default class Presentation extends React.Component {
           </Text>
           <List className='list-unstyled'>
             <ListItem>
-              <a href='https://louispryer.github.io/chrome-dev-tools'>Slide Deck</a>
+              <a href='https://louispryer.github.io/chrome-dev-tools'>https://louispryer.github.io/chrome-dev-tools</a>
             </ListItem>
             <ListItem>
               <a href='https://umaar.com/dev-tips/'>Umaar Dev Tips</a>
